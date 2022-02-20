@@ -11,3 +11,4 @@ COPY --from=stage1 /home/app/target/hello-world-java.jar hello-world-java.jar
 ENTRYPOINT ["sh", "-c", "java -jar /hello-world-java.jar"]
 # added comment
 # removed comment
+#added again
