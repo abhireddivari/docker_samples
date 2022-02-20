@@ -12,3 +12,5 @@ ENTRYPOINT ["sh", "-c", "java -jar /hello-world-java.jar"]
 # added comment
 # removed comment
 #added again
+#added
+
